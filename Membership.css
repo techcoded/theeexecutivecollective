@@ -1,0 +1,105 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1408px;
+}
+
+.u-section-1 .u-text-1 {
+  text-transform: uppercase;
+  letter-spacing: 0px;
+  font-size: 3rem;
+  font-weight: 700;
+  margin: 105px 610px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 496px;
+  height: 496px;
+  background-image: url("images/jason-goodman-6awfTPLGaCE-unsplash.jpg");
+  background-position: 50% 50%;
+  margin: 42px 60px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  font-size: 1.125rem;
+  margin: -496px 570px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 925px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 542px;
+    margin-right: 410px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 445px;
+    height: 445px;
+    margin-top: -395px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -8px;
+    margin-right: 370px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 190px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 325px;
+    height: 325px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 112px;
+    margin-right: 150px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-right: 10px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 270px;
+    height: 270px;
+    margin-right: 44px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 167px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 968px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: 543px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 274px;
+    height: 274px;
+    margin-top: -354px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: 103px;
+  }
+}
